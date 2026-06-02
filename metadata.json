@@ -1,0 +1,6 @@
+{
+  "name": "3-Player Parkour Racing",
+  "description": "A real-time 3-player 2D side-scrolling parkour platformer racing game featuring lobby matchmaking, high-fidelity canvas graphics, and smooth lag-interpolated player positioning sync over WebSockets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
